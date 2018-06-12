@@ -1,9 +1,5 @@
 Test edit 1
 Test edit 2
 Test edit 3
-<<<<<<< HEAD
 
 Test edit 5
-=======
-Test edit 4
->>>>>>> 1316430a65503caa42d14d39cb6b4494caa330ac
